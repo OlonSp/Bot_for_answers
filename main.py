@@ -4,7 +4,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 import random
 
-BOT_TOKEN = '6668803998:AAHwAFxFVWgGbu-mFkuW22Y0dfz2djFWKjQ'
+BOT_TOKEN = 'Bot token here'
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
